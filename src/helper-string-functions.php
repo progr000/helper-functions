@@ -13,7 +13,7 @@ if (!function_exists('replaceMultiSpacesAndNewLine')) {
 
 if (!function_exists('minimize')) {
     /**
-     * @param string $strd
+     * @param string $str
      * @return string
      */
     function minimize($str)
